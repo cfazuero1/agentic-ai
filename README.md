@@ -24,6 +24,8 @@ The system combines:
 -   Professional investigation reporting
 -   Automated mitigation playbook generation (PDF)
 
+   ![Agentic_AI UI]([images/architecture.png](https://github.com/cfazuero1/agentic-ai/blob/main/agentic_ai.png)
+
 ------------------------------------------------------------------------
 
 ## 🧠 Architecture
@@ -40,6 +42,8 @@ The system operates using a structured agent design:
     -   Contains the SOC analyst's investigation request.
     -   Provides log analysis instructions.
     -   Defines structured output expectations.
+  
+![Agentic_AI Architecture]([images/architecture.png](https://github.com/cfazuero1/agentic-ai/blob/main/AI-driven%20security%20monitoring%20system.png)
 
 ------------------------------------------------------------------------
 
@@ -72,6 +76,8 @@ The platform enforces strict guardrails to ensure:
     Structured Findings
             ↓
     PDF Playbook Generation
+
+    ![Agentic_AI_Message_Prompt](https://github.com/cfazuero1/agentic-ai/blob/main/ai_message.png)
 
 ------------------------------------------------------------------------
 
