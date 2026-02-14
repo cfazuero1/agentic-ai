@@ -78,7 +78,7 @@ The platform enforces strict guardrails to ensure:
     PDF Playbook Generation
 
     ![Agentic_AI_Message_Prompt](https://github.com/cfazuero1/agentic-ai/blob/main/ai_message.png)
-
+ ![Agentic_AI_Message_Prompt](https://github.com/cfazuero1/agentic-ai/blob/main/ai_message.png)
 ------------------------------------------------------------------------
 
 ## 🌐 Web Application Features
